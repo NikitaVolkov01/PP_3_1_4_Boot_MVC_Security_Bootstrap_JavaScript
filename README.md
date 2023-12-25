@@ -7,8 +7,11 @@
 После запуска приложения перейти по адресу http://localhost:8080/
 
 Роли для входа:
+
 User - логин: 'admin@yandex.ru', пароль: 'admin'.
+
 Admin - логин: 'user@yandex.ru', пароль: 'user'.
+
 UserAdmin - логин: 'adminuser@yandex.ru', пароль: 'adminuser'.
 
 Вход с логином 'admin@yandex.ru' и паролем 'admin':
